@@ -5,3 +5,5 @@ gen-be/gradle/wrapper/gradle-wrapper.jar
 /gen-be/gradle/wrapper
 gen-be/gradlew
 gen-be/gradlew.bat
+gen-app.pub
+gen-app
